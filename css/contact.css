@@ -1,0 +1,19 @@
+/*--banner-background-custom*/
+
+.Contact-bg {
+    background-image: url(../img/offer-banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Contact-page {
+    padding: 120px 0px;
+}
+
+.Contact-page>h1 {
+    padding: 10px 0px 0px 30px;
+}
+
+
+/*--banner-background-custom*/
